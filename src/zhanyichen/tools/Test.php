@@ -1,5 +1,5 @@
 <?php
-namespace zhanyichen\tools;
+namespace Zhanyichen\Tools;
 class Test
 {
     static function sendok(){
