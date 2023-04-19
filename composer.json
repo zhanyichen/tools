@@ -1,0 +1,16 @@
+{
+    "name": "zhanyichen/tools",
+    "description": "ZYCTools",
+    "autoload": {
+        "psr-4": {
+            "Zhanyichen\\Tools\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhanyichen",
+            "email": "38627724@qq.com"
+        }
+    ],
+    "require": {}
+}
