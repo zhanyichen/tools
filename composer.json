@@ -3,7 +3,7 @@
     "description": "ZYCTools",
     "autoload": {
         "psr-4": {
-            "Zhanyichen\\Tools\\": "src/"
+            "zhanyichen\\tools\\": "src/"
         }
     },
     "authors": [

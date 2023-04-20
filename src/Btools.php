@@ -1,6 +1,4 @@
 <?php
-
-#namespace Zhanyichen\Tools;
 namespace zhanyichen\tools;
 
 class Btools
