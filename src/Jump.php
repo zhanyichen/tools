@@ -1,6 +1,6 @@
 <?php
 
-namespace zhanyichen\Tools;
+namespace zhanyichen\tools;
 use think\exception\HttpResponseException;
 use think\App;
 use think\Response;
